@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This should contain information about the project you are working on. 
